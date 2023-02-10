@@ -1,0 +1,1306 @@
+fileFormatVersion: 2
+guid: b0edb231daf86f945babffd20949f25e
+ModelImporter:
+  serializedVersion: 20200
+  internalIDToNameTable:
+  - first:
+      74: 93433908660766856
+    second: 1
+  - first:
+      74: -7414347442814847209
+    second: 2
+  externalObjects: {}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: 1
+      takeName: 1
+      internalID: 0
+      firstFrame: 1
+      lastFrame: 200
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 1
+    - serializedVersion: 16
+      name: 2
+      takeName: 2
+      internalID: 0
+      firstFrame: 201
+      lastFrame: 300
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton:
+    - name: GuardianAnimated(Clone)
+      parentName: 
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Rectangle002
+      parentName: GuardianAnimated(Clone)
+      position: {x: 3, y: -5.9953275, z: 0.0000001779531}
+      rotation: {x: -0.06194036, y: 0.016593765, z: 0.258267, w: 0.96394306}
+      scale: {x: 1, y: 1, z: 1}
+    - name: IK Chain004
+      parentName: Rectangle002
+      position: {x: 0.039669685, y: -0.013138427, z: 0.34095603}
+      rotation: {x: -1.2487682e-10, y: -4.660466e-10, z: -0.25881907, w: 0.9659258}
+      scale: {x: 1, y: 0.99999994, z: 1.0000001}
+    - name: Rectangle001
+      parentName: GuardianAnimated(Clone)
+      position: {x: 6, y: 0.4939144, z: 0.0117888}
+      rotation: {x: 0.045743555, y: -0.045743547, z: 0.70562565, w: 0.7056256}
+      scale: {x: 1, y: 1, z: 1}
+    - name: IK Chain001
+      parentName: Rectangle001
+      position: {x: 0.0000012207031, y: -0.058747556, z: 0.34328958}
+      rotation: {x: -6.28037e-16, y: -6.2803697e-16, z: -0.7071068, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Rectangle006
+      parentName: GuardianAnimated(Clone)
+      position: {x: 3, y: 5.004672, z: -0.00000022888183}
+      rotation: {x: -0.016593795, y: 0.061940245, z: 0.96394306, w: 0.258267}
+      scale: {x: 1, y: 0.99999994, z: 1}
+    - name: IK Chain005
+      parentName: Rectangle006
+      position: {x: -0.040743273, y: -0.014994507, z: 0.34095222}
+      rotation: {x: 3.7910872e-10, y: -0.000000007611827, z: 0.9659259, w: -0.25881892}
+      scale: {x: 1, y: 0.99999994, z: 1}
+    - name: Rectangle005
+      parentName: GuardianAnimated(Clone)
+      position: {x: -3, y: 5.9939146, z: 0.0117888}
+      rotation: {x: -0.022374142, y: -0.08350084, z: 0.962323, w: -0.25780132}
+      scale: {x: 1, y: 0.99999994, z: 1}
+    - name: IK Chain006
+      parentName: Rectangle005
+      position: {x: -0.04181816, y: 0.03142273, z: 0.34094733}
+      rotation: {x: 0.0000000019195323, y: -5.1433713e-10, z: 0.9659259, w: 0.25881907}
+      scale: {x: 1, y: 0.99999994, z: 1}
+    - name: Rectangle004
+      parentName: GuardianAnimated(Clone)
+      position: {x: -6, y: -0.49532798, z: 0}
+      rotation: {x: -0.060294367, y: -0.060294352, z: -0.70453155, w: 0.7045314}
+      scale: {x: 1, y: 1, z: 1}
+    - name: IK Chain002
+      parentName: Rectangle004
+      position: {x: -0.0021477889, y: 0.055565186, z: 0.3409571}
+      rotation: {x: 0, y: 0, z: 0.7071068, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Rectangle003
+      parentName: GuardianAnimated(Clone)
+      position: {x: -3, y: -5.006085, z: 0.0117888}
+      rotation: {x: 0.083500765, y: 0.022374198, z: -0.25780076, w: 0.9623231}
+      scale: {x: 1, y: 0.99999994, z: 1}
+    - name: IK Chain003
+      parentName: Rectangle003
+      position: {x: 0.038598593, y: 0.03328247, z: 0.3409577}
+      rotation: {x: -0.000000006568323, y: -0.0000000042735193, z: 0.25881895, w: 0.9659259}
+      scale: {x: 1, y: 0.99999994, z: 1}
+    - name: Rectangle007
+      parentName: GuardianAnimated(Clone)
+      position: {x: -0.00031851855, y: -0.00031851855, z: -0.04872592}
+      rotation: {x: 0, y: 0.0000000018626451, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Body_Base
+      parentName: Rectangle007
+      position: {x: 0.30996314, y: 0.61487335, z: 0.6605488}
+      rotation: {x: 0.00011118395, y: -0.00011118398, z: 0.0000000123611335, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ' 1'
+      parentName: Body_Base
+      position: {x: -9.3132255e-12, y: -0.00000000490807, z: -1.7981142}
+      rotation: {x: 0.0000000011204975, y: 9.7957005e-17, z: 0.000000087422784, w: 1}
+      scale: {x: 1, y: 1, z: 1.0000001}
+    - name: Leg_LP060
+      parentName: ' 1'
+      position: {x: 0.7566149, y: -1.2311537, z: 2.0217917}
+      rotation: {x: -0.10565894, y: -0.04238685, z: 0.24145596, w: 0.9637108}
+      scale: {x: 0.47185802, y: 0.4718581, z: 0.47185808}
+    - name: Leg_LP059
+      parentName: Leg_LP060
+      position: {x: 0.0000005149841, y: 0.00000061035155, z: -0.890975}
+      rotation: {x: 0.005643047, y: -0.01000009, z: 0.00043358788, w: 0.999934}
+      scale: {x: 0.9198996, y: 0.9198996, z: 0.91989976}
+    - name: Leg_LP058
+      parentName: Leg_LP059
+      position: {x: -0.00000034332274, y: 0.0000009155273, z: -1.0009463}
+      rotation: {x: -0.6181641, y: 0.06707784, z: -0.0130912075, w: 0.7830725}
+      scale: {x: 0.91178477, y: 0.91178477, z: 0.9117848}
+    - name: Leg_LP057
+      parentName: Leg_LP058
+      position: {x: -0.000000095367426, y: 0.00000061035155, z: -0.99070555}
+      rotation: {x: -0.12999965, y: 0.000000033012753, z: 0.0000000038132915, w: 0.9915141}
+      scale: {x: 0.9117848, y: 0.91178495, z: 0.9117848}
+    - name: Leg_LP056
+      parentName: Leg_LP057
+      position: {x: 0.00000030517577, y: 0.0000007629394, z: -1.0346729}
+      rotation: {x: -0.130204, y: -5.511833e-10, z: 0.000000007139004, w: 0.99148726}
+      scale: {x: 0.9117847, y: 0.91178477, z: 0.91178477}
+    - name: Leg_LP055
+      parentName: Leg_LP056
+      position: {x: -0.0000003814697, y: -0.0000012207031, z: -1.1143426}
+      rotation: {x: -0.08722508, y: 0.000000003345685, z: -0.00000000893508, w: 0.99618864}
+      scale: {x: 0.9117847, y: 0.9117847, z: 0.9117847}
+    - name: Leg_LP054
+      parentName: Leg_LP055
+      position: {x: -0.0000009918213, y: -0.00000061035155, z: -1.0848072}
+      rotation: {x: -0.044145875, y: 0.000000004528731, z: 0.0000000029968141, w: 0.9990251}
+      scale: {x: 1, y: 0.99999994, z: 1}
+    - name: Leg_LP053
+      parentName: Leg_LP054
+      position: {x: -0.0000010299682, y: -0.00000030517577, z: -1.0848058}
+      rotation: {x: -0.05799518, y: -0.00000019009633, z: 0.0000000043494706, w: 0.9983169}
+      scale: {x: 1.0000001, y: 1, z: 1.0000001}
+    - name: Leg_LP052
+      parentName: Leg_LP053
+      position: {x: -0.00000125885, y: -0.0000012207031, z: -1.0848047}
+      rotation: {x: 0.18081859, y: -0.0000000041321018, z: -0.0000000044484403, w: 0.9835165}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Leg_LP051
+      parentName: Leg_LP052
+      position: {x: -0.00000087738033, y: -0.0000012207031, z: -1.0848072}
+      rotation: {x: 0.14422774, y: 0.000000012873278, z: -4.645575e-10, w: 0.9895445}
+      scale: {x: 1.0000001, y: 1, z: 1}
+    - name: Leg_LP050
+      parentName: Leg_LP051
+      position: {x: -0.0000004959106, y: -0.00000061035155, z: -1.0848058}
+      rotation: {x: 0.105396084, y: 0.000000020932456, z: 0.0000000019958692, w: 0.99443036}
+      scale: {x: 1, y: 1, z: 0.99999994}
+    - name: Leg_LP049
+      parentName: Leg_LP050
+      position: {x: -0.00000022888183, y: -0.0000012207031, z: -1.0848047}
+      rotation: {x: 0.064655595, y: 0.00000004868071, z: -0.000000010620283, w: 0.99790764}
+      scale: {x: 0.99999994, y: 1, z: 0.9999999}
+    - name: Leg_LP048
+      parentName: Leg_LP049
+      position: {x: -0.00000087738033, y: -0.0000018310546, z: -1.0848058}
+      rotation: {x: 0.109716594, y: -0.000000001600378, z: -0.000000009193139, w: 0.99396294}
+      scale: {x: 0.99999994, y: 0.99999994, z: 0.9999999}
+    - name: Leg_LP047
+      parentName: Leg_LP048
+      position: {x: -0.000000076293944, y: 0, z: -1.0848072}
+      rotation: {x: 0.10933337, y: 0.000000054785342, z: -0.000000017269265, w: 0.99400514}
+      scale: {x: 0.99999994, y: 0.99999994, z: 0.99999994}
+    - name: Leg_LP046
+      parentName: Leg_LP047
+      position: {x: -0.0000006866455, y: -0.0000012207031, z: -1.0848072}
+      rotation: {x: 0.10699875, y: 0.000000005341994, z: 0.0000000017668631, w: 0.9942592}
+      scale: {x: 0.99999994, y: 0.9999999, z: 0.9999999}
+    - name: Leg_LP045
+      parentName: Leg_LP046
+      position: {x: -0.00000045776366, y: -0.0000012207031, z: -1.0848078}
+      rotation: {x: 0.0157796, y: -0.000000015889299, z: -0.0000000034749967, w: 0.99987555}
+      scale: {x: 0.99999994, y: 0.99999994, z: 0.99999994}
+    - name: Leg_LP044
+      parentName: Leg_LP045
+      position: {x: -0.00000072479247, y: 0, z: -1.0848072}
+      rotation: {x: 0.098482735, y: 0.000000015185998, z: 0.0000000115993455, w: 0.99513876}
+      scale: {x: 0.99999994, y: 0.99999994, z: 0.9999999}
+    - name: Leg_LP043
+      parentName: Leg_LP044
+      position: {x: -0.0000010299682, y: 0, z: -1.0848064}
+      rotation: {x: 0.092636414, y: -0.000000012098531, z: -0.000000019451972, w: 0.9957}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1}
+    - name: Leg_LP042
+      parentName: Leg_LP043
+      position: {x: -0.000001411438, y: 0, z: -1.0848068}
+      rotation: {x: 0.12898844, y: -0.000000011385948, z: -0.00000010558417, w: 0.9916461}
+      scale: {x: 0.9999999, y: 0.99999994, z: 0.99999994}
+    - name: Leg_LP041
+      parentName: Leg_LP042
+      position: {x: -0.0000008392334, y: -0.0000024414062, z: -1.0848072}
+      rotation: {x: 0.042763367, y: 0.00000003058333, z: -0.000000015058632, w: 0.99908525}
+      scale: {x: 0.9999998, y: 0.9999998, z: 0.99999994}
+    - name: Foot_LP003
+      parentName: Leg_LP041
+      position: {x: -0.0000011444091, y: 0, z: -1.2792573}
+      rotation: {x: -0.034617435, y: 0.02195665, z: 0.034400083, w: 0.9985671}
+      scale: {x: 1, y: 0.99999994, z: 0.99999994}
+    - name: Figner_Pt1_LP024
+      parentName: Foot_LP003
+      position: {x: -0.00000022888183, y: -0.83488524, z: -0.77229613}
+      rotation: {x: -0.1580485, y: 0, z: -0, w: 0.98743135}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Figner_Pt1_LP025
+      parentName: Figner_Pt1_LP024
+      position: {x: 0.0000007629394, y: -0.6127026, z: 0.02946106}
+      rotation: {x: 0.102902874, y: -0, z: -0, w: 0.99469143}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Figner_Pt2_LP012
+      parentName: Figner_Pt1_LP025
+      position: {x: -0.0000012969971, y: -0.43841064, z: -0.046939086}
+      rotation: {x: 0.102902874, y: -0, z: -0, w: 0.99469143}
+      scale: {x: 1, y: 0.99999994, z: 0.99999994}
+    - name: Figner_Pt1_LP026
+      parentName: Foot_LP003
+      position: {x: -0.6082396, y: -0.3538159, z: -0.77856475}
+      rotation: {x: -0.15100181, y: 0.08718094, z: -0.49234086, w: 0.8527593}
+      scale: {x: 1, y: 0.99999994, z: 0.99999994}
+    - name: Figner_Pt1_LP027
+      parentName: Figner_Pt1_LP026
+      position: {x: -0, y: -0.6127026, z: 0.029460449}
+      rotation: {x: 0.08643371, y: -0, z: -0, w: 0.9962576}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Figner_Pt2_LP013
+      parentName: Figner_Pt1_LP027
+      position: {x: -0.0000012207031, y: -0.4384082, z: -0.046939086}
+      rotation: {x: 0.08643371, y: -0, z: -0, w: 0.9962576}
+      scale: {x: 1, y: 0.99999994, z: 0.99999994}
+    - name: Figner_Pt1_LP028
+      parentName: Foot_LP003
+      position: {x: 0.64756835, y: -0.38830078, z: -0.77856445}
+      rotation: {x: -0.14138122, y: -0.08162651, z: 0.49329224, w: 0.85440695}
+      scale: {x: 1, y: 0.99999994, z: 0.99999994}
+    - name: Figner_Pt1_LP029
+      parentName: Figner_Pt1_LP028
+      position: {x: -0, y: -0.612702, z: 0.029461669}
+      rotation: {x: 0.097656496, y: -0, z: -0, w: 0.9952202}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Figner_Pt2_LP014
+      parentName: Figner_Pt1_LP029
+      position: {x: 0.0000012207031, y: -0.43841064, z: -0.046938475}
+      rotation: {x: 0.097656496, y: -0, z: -0, w: 0.9952202}
+      scale: {x: 1, y: 0.99999994, z: 0.99999994}
+    - name: Figner_Pt1_LP030
+      parentName: Foot_LP003
+      position: {x: 0.00000015258789, y: 0.37730223, z: -0.77229613}
+      rotation: {x: -7.4440845e-18, y: -0.12157113, z: 0.99258274, w: 6.077816e-17}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Figner_Pt1_LP031
+      parentName: Figner_Pt1_LP030
+      position: {x: -0.000000076293944, y: -0.6127026, z: 0.029461363}
+      rotation: {x: 0.030838808, y: -0, z: -0, w: 0.99952435}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Figner_Pt2_LP015
+      parentName: Figner_Pt1_LP031
+      position: {x: -0.0000005340576, y: -0.4384082, z: -0.046938628}
+      rotation: {x: 0.030838808, y: -0, z: -0, w: 0.99952435}
+      scale: {x: 1, y: 0.99999994, z: 0.99999994}
+    - name: Dummy002
+      parentName: Leg_LP041
+      position: {x: 0.0000012969971, y: 0.0000024414062, z: -1.2792575}
+      rotation: {x: 0.026366925, y: -0.00000032277657, z: -0.000000051507726, w: 0.9996523}
+      scale: {x: 3.333334, y: 3.3333344, z: 3.3333335}
+    - name: Leg_LP100
+      parentName: ' 1'
+      position: {x: -0.6656173, y: -1.2300819, z: 2.0217917}
+      rotation: {x: -0.5986795, y: 0.16628528, z: -0.20696443, w: 0.7557102}
+      scale: {x: 0.47185802, y: 0.47185808, z: 0.47185802}
+    - name: Leg_LP099
+      parentName: Leg_LP100
+      position: {x: 0.00000078201293, y: 0.00000030517577, z: -0.8909752}
+      rotation: {x: -0.04379295, y: 0.000000007397846, z: -4.3575774e-10, w: 0.99904066}
+      scale: {x: 0.9198997, y: 0.91989976, z: 0.9198998}
+    - name: Leg_LP098
+      parentName: Leg_LP099
+      position: {x: -0.0000006866455, y: 0.00000030517577, z: -1.000946}
+      rotation: {x: -0.535368, y: 0.0014422133, z: -0.00037893822, w: 0.84461766}
+      scale: {x: 0.9117848, y: 0.9117849, z: 0.9117849}
+    - name: Leg_LP097
+      parentName: Leg_LP098
+      position: {x: -0.000000333786, y: 0.00000030517577, z: -0.99070495}
+      rotation: {x: -0.12898432, y: -0.00000002654915, z: -0.0000000049983186, w: 0.99164665}
+      scale: {x: 0.91178495, y: 0.91178495, z: 0.9117849}
+    - name: Leg_LP096
+      parentName: Leg_LP097
+      position: {x: 0.00000032424927, y: 0.00000061035155, z: -1.0346723}
+      rotation: {x: -0.12657997, y: 0.000000006640649, z: -0.000000008162579, w: 0.9919564}
+      scale: {x: 0.9117848, y: 0.9117848, z: 0.9117847}
+    - name: Leg_LP095
+      parentName: Leg_LP096
+      position: {x: -0.0000002479553, y: -0.00000061035155, z: -1.1143426}
+      rotation: {x: -0.079969816, y: -0.00000000780573, z: 0.000000006290564, w: 0.9967973}
+      scale: {x: 0.9117848, y: 0.9117848, z: 0.9117848}
+    - name: Leg_LP094
+      parentName: Leg_LP095
+      position: {x: 0.00000028610228, y: -0.0000009155273, z: -1.0848058}
+      rotation: {x: -0.03315725, y: -0.0000000015638493, z: -0.000000005526412, w: 0.99945015}
+      scale: {x: 0.9999999, y: 1, z: 1}
+    - name: Leg_LP093
+      parentName: Leg_LP094
+      position: {x: -0.0000016212463, y: 0, z: -1.0848058}
+      rotation: {x: -0.04309599, y: -0.00000009425487, z: -0.000000005697115, w: 0.99907094}
+      scale: {x: 0.99999994, y: 0.99999994, z: 1}
+    - name: Leg_LP092
+      parentName: Leg_LP093
+      position: {x: -0.0000008392334, y: -0.00000061035155, z: -1.0848047}
+      rotation: {x: 0.19953617, y: 0.000000015774658, z: -0.000000013548197, w: 0.97989047}
+      scale: {x: 0.9999999, y: 0.99999994, z: 0.99999994}
+    - name: Leg_LP091
+      parentName: Leg_LP092
+      position: {x: -0.0000002479553, y: -0.0000018310546, z: -1.0848058}
+      rotation: {x: 0.37354106, y: 0.43442822, z: 0.07320579, w: 0.8163211}
+      scale: {x: 0.99999994, y: 1, z: 0.99999994}
+    - name: Leg_LP090
+      parentName: Leg_LP091
+      position: {x: -0.00000032424927, y: -0.0000012207031, z: -1.0848058}
+      rotation: {x: 0.046953835, y: 0.09581998, z: 0.021386152, w: 0.9940606}
+      scale: {x: 1.0000001, y: 1, z: 1}
+    - name: Leg_LP089
+      parentName: Leg_LP090
+      position: {x: -0.00000087738033, y: 0, z: -1.0848035}
+      rotation: {x: 0.089699656, y: -0.0000000063607555, z: -0.000000026661692, w: 0.9959689}
+      scale: {x: 0.9999999, y: 0.99999994, z: 1}
+    - name: Leg_LP088
+      parentName: Leg_LP089
+      position: {x: -0.00000045776366, y: 0, z: -1.0848058}
+      rotation: {x: -0.104521714, y: 0.024210446, z: 0.0066823903, w: 0.9942054}
+      scale: {x: 0.99999994, y: 0.99999994, z: 1}
+    - name: Leg_LP087
+      parentName: Leg_LP088
+      position: {x: -0.00000074386594, y: 0, z: -1.0848058}
+      rotation: {x: 0.1336066, y: -0.0000000012338841, z: -0.000000012637721, w: 0.99103445}
+      scale: {x: 0.9999999, y: 0.99999994, z: 0.99999994}
+    - name: Leg_LP086
+      parentName: Leg_LP087
+      position: {x: -0.0000009727478, y: 0.0000012207031, z: -1.0848064}
+      rotation: {x: 0.05770031, y: -0.046776213, z: 0.01263061, w: 0.9971576}
+      scale: {x: 0.9999999, y: 1, z: 0.99999994}
+    - name: Leg_LP085
+      parentName: Leg_LP086
+      position: {x: -0.00000019073485, y: -0.0000024414062, z: -1.0848058}
+      rotation: {x: 0.035476454, y: -0.000000016770354, z: -0.000000026138819, w: 0.9993705}
+      scale: {x: 0.99999994, y: 1, z: 1}
+    - name: Leg_LP084
+      parentName: Leg_LP085
+      position: {x: 0.000000057220458, y: 0.0000012207031, z: -1.0848056}
+      rotation: {x: 0.044233486, y: 0.0000003786725, z: -0.00000023337992, w: 0.99902123}
+      scale: {x: 0.99999994, y: 1, z: 1}
+    - name: Leg_LP083
+      parentName: Leg_LP084
+      position: {x: -0.0000016784668, y: -0.0000024414062, z: -1.0848068}
+      rotation: {x: 0.038312193, y: 0.00000058038165, z: 0.000000033021145, w: 0.99926585}
+      scale: {x: 0.99999994, y: 1.0000001, z: 1}
+    - name: Leg_LP082
+      parentName: Leg_LP083
+      position: {x: -0.00000030517577, y: 0, z: -1.0848056}
+      rotation: {x: 0.036656074, y: 0.0000007868707, z: -0.0000002272771, w: 0.99932796}
+      scale: {x: 0.99999994, y: 0.99999994, z: 0.99999994}
+    - name: Leg_LP081
+      parentName: Leg_LP082
+      position: {x: -0.000000057220458, y: -0.0000012207031, z: -1.0848072}
+      rotation: {x: 0.047768313, y: 0.000000030648017, z: -0.0000000049621285, w: 0.99885845}
+      scale: {x: 0.99999994, y: 0.99999994, z: 1}
+    - name: Foot_LP005
+      parentName: Leg_LP081
+      position: {x: -0.00000019073485, y: 0.0000012207031, z: -1.2792578}
+      rotation: {x: -0.09719891, y: 0.04261477, z: -0.00024209295, w: 0.9943522}
+      scale: {x: 0.99999994, y: 1, z: 1.0000001}
+    - name: Figner_Pt1_LP040
+      parentName: Foot_LP005
+      position: {x: -0, y: -0.8348837, z: -0.77229613}
+      rotation: {x: -0.12330166, y: 0, z: -0, w: 0.99236923}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Figner_Pt1_LP041
+      parentName: Figner_Pt1_LP040
+      position: {x: -0, y: -0.61270237, z: 0.029461363}
+      rotation: {x: 0.07539294, y: -0, z: -0, w: 0.99715394}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Figner_Pt2_LP020
+      parentName: Figner_Pt1_LP041
+      position: {x: -0, y: -0.43840897, z: -0.04693878}
+      rotation: {x: 0.07539294, y: -0, z: -0, w: 0.99715394}
+      scale: {x: 1, y: 0.99999994, z: 0.99999994}
+    - name: Figner_Pt1_LP042
+      parentName: Foot_LP005
+      position: {x: -0.6082382, y: -0.3538135, z: -0.77856445}
+      rotation: {x: -0.087224476, y: 0.050359078, z: -0.49745753, w: 0.8616216}
+      scale: {x: 1, y: 0.99999994, z: 0.99999994}
+    - name: Figner_Pt1_LP043
+      parentName: Figner_Pt1_LP042
+      position: {x: -0, y: -0.61270237, z: 0.029461363}
+      rotation: {x: 0.13323362, y: -0, z: -0, w: 0.99108464}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Figner_Pt2_LP021
+      parentName: Figner_Pt1_LP043
+      position: {x: -0, y: -0.43840897, z: -0.04693878}
+      rotation: {x: 0.13323362, y: -0, z: -0, w: 0.99108464}
+      scale: {x: 1, y: 0.99999994, z: 0.99999994}
+    - name: Figner_Pt1_LP044
+      parentName: Foot_LP005
+      position: {x: 0.64756936, y: -0.38829988, z: -0.77856445}
+      rotation: {x: -0.10599989, y: -0.061199084, z: 0.49624065, w: 0.85951376}
+      scale: {x: 1, y: 0.99999994, z: 0.99999994}
+    - name: Figner_Pt1_LP045
+      parentName: Figner_Pt1_LP044
+      position: {x: -0, y: -0.61270237, z: 0.029461363}
+      rotation: {x: 0.07630075, y: -0, z: -0, w: 0.99708486}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Figner_Pt2_LP022
+      parentName: Figner_Pt1_LP045
+      position: {x: -0, y: -0.43840897, z: -0.04693878}
+      rotation: {x: 0.07630075, y: -0, z: -0, w: 0.99708486}
+      scale: {x: 1, y: 0.99999994, z: 0.99999994}
+    - name: Figner_Pt1_LP046
+      parentName: Foot_LP005
+      position: {x: -0, y: 0.37730223, z: -0.77229613}
+      rotation: {x: -7.715988e-18, y: -0.12601164, z: 0.9920288, w: 6.074424e-17}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Figner_Pt1_LP047
+      parentName: Figner_Pt1_LP046
+      position: {x: -0, y: -0.61270237, z: 0.029461363}
+      rotation: {x: 0.13233125, y: -0, z: -0, w: 0.9912056}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Figner_Pt2_LP023
+      parentName: Figner_Pt1_LP047
+      position: {x: -0, y: -0.43840897, z: -0.04693878}
+      rotation: {x: 0.13503802, y: -0, z: -0, w: 0.99084044}
+      scale: {x: 1, y: 0.99999994, z: 0.99999994}
+    - name: Dummy003
+      parentName: Leg_LP081
+      position: {x: 0.0000034713744, y: -0.0000012207031, z: -1.2792572}
+      rotation: {x: 0.0263687, y: -0.0000000011303533, z: 0.000000010126535, w: 0.9996523}
+      scale: {x: 3.3333337, y: 3.3333337, z: 3.3333347}
+    - name: Leg_LP040
+      parentName: ' 1'
+      position: {x: -1.375805, y: 0.0021439046, z: 2.0217917}
+      rotation: {x: -0.09135798, y: 0.08366688, z: -0.67696583, w: 0.7255142}
+      scale: {x: 0.47185802, y: 0.4718581, z: 0.47185808}
+    - name: Leg_LP039
+      parentName: Leg_LP040
+      position: {x: 0.0000005912781, y: 0.00000030517577, z: -0.8909749}
+      rotation: {x: -0.043768346, y: 0.0000000051015485, z: -7.898882e-10, w: 0.99904174}
+      scale: {x: 0.91989964, y: 0.9198997, z: 0.91989964}
+    - name: Leg_LP038
+      parentName: Leg_LP039
+      position: {x: -0.0000005912781, y: 0.00000061035155, z: -1.0009463}
+      rotation: {x: -0.5084791, y: -0.47174856, z: 0.29192492, w: 0.65854555}
+      scale: {x: 0.9117849, y: 0.9117849, z: 0.9117848}
+    - name: Leg_LP037
+      parentName: Leg_LP038
+      position: {x: -0, y: 0.00000061035155, z: -0.99070615}
+      rotation: {x: -0.1292763, y: 0.0000000121379635, z: 0.000000004672645, w: 0.9916086}
+      scale: {x: 0.9117849, y: 0.91178477, z: 0.9117848}
+    - name: Leg_LP036
+      parentName: Leg_LP037
+      position: {x: -0.000000019073486, y: 0.0000009155273, z: -1.0346729}
+      rotation: {x: -0.12730382, y: 0.000000009747862, z: 0.0000000022809261, w: 0.9918638}
+      scale: {x: 0.91178495, y: 0.9117848, z: 0.9117849}
+    - name: Leg_LP035
+      parentName: Leg_LP036
+      position: {x: 0.000000038146972, y: 0, z: -1.1143433}
+      rotation: {x: -0.08127319, y: 0.000000009599387, z: 0.000000007956491, w: 0.9966919}
+      scale: {x: 0.91178477, y: 0.91178477, z: 0.91178477}
+    - name: Leg_LP034
+      parentName: Leg_LP035
+      position: {x: -0.000000667572, y: -0.00000030517577, z: -1.0848072}
+      rotation: {x: -0.035045415, y: 0.000000012802038, z: 0.000000006972194, w: 0.9993858}
+      scale: {x: 1, y: 0.99999994, z: 0.99999994}
+    - name: Leg_LP033
+      parentName: Leg_LP034
+      position: {x: -0.00000061035155, y: 0.00000030517577, z: -1.0848058}
+      rotation: {x: -0.045590404, y: -0.00000017575461, z: 0.00000023530717, w: 0.99896026}
+      scale: {x: 0.99999994, y: 1, z: 0.99999994}
+    - name: Leg_LP032
+      parentName: Leg_LP033
+      position: {x: -0.0000006866455, y: 0.00000061035155, z: -1.0848047}
+      rotation: {x: 0.19646525, y: 0.0000000089487475, z: -0.0000000027428972, w: 0.98051083}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Leg_LP031
+      parentName: Leg_LP032
+      position: {x: -0.0000005340576, y: -0.0000012207031, z: -1.0848083}
+      rotation: {x: 0.16259913, y: 0.000000013653168, z: -0.00000001452042, w: 0.98669225}
+      scale: {x: 1.0000001, y: 1, z: 1.0000001}
+    - name: Leg_LP030
+      parentName: Leg_LP031
+      position: {x: -0.00000061035155, y: -0.0000012207031, z: -1.0848083}
+      rotation: {x: 0.12551926, y: 0.000000011176298, z: -0.00000001925022, w: 0.99209124}
+      scale: {x: 0.99999994, y: 1, z: 1}
+    - name: Leg_LP029
+      parentName: Leg_LP030
+      position: {x: -0.0000006866455, y: -0.00000061035155, z: -1.0848058}
+      rotation: {x: 0.08565781, y: 0.000000008227084, z: -0.000000022206748, w: 0.9963246}
+      scale: {x: 1.0000001, y: 1, z: 1.0000001}
+    - name: Leg_LP028
+      parentName: Leg_LP029
+      position: {x: -0.00000061035155, y: -0.0000012207031, z: -1.0848058}
+      rotation: {x: 0.13083304, y: 0.000000008604253, z: -0.00000002555981, w: 0.9914044}
+      scale: {x: 1, y: 0.9999999, z: 0.9999999}
+    - name: Leg_LP027
+      parentName: Leg_LP028
+      position: {x: -0.0000005912781, y: -0.0000012207031, z: -1.0848047}
+      rotation: {x: 0.12972456, y: -0.0000000055706484, z: -0.000000024631191, w: 0.9915501}
+      scale: {x: 0.99999994, y: 0.9999998, z: 0.99999994}
+    - name: Leg_LP026
+      parentName: Leg_LP027
+      position: {x: -0.0000004959106, y: -0.0000012207031, z: -1.0848064}
+      rotation: {x: 0.12579885, y: -9.639756e-10, z: -0.000000022408495, w: 0.9920558}
+      scale: {x: 1, y: 0.99999994, z: 0.99999994}
+    - name: Leg_LP025
+      parentName: Leg_LP026
+      position: {x: -0.000000667572, y: -0.0000012207031, z: -1.0848072}
+      rotation: {x: 0.03235014, y: 1.7762464e-10, z: -0.000000023301007, w: 0.9994766}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Leg_LP024
+      parentName: Leg_LP025
+      position: {x: -0.00000057220456, y: -0.0000024414062, z: -1.0848072}
+      rotation: {x: 0.11250581, y: -0.0000000035272865, z: -0.0000000145969965, w: 0.9936511}
+      scale: {x: 1, y: 1.0000001, z: 1.0000001}
+    - name: Leg_LP023
+      parentName: Leg_LP024
+      position: {x: -0.00000072479247, y: -0.0000024414062, z: -1.0848078}
+      rotation: {x: 0.10370679, y: -0.0000000020853146, z: -0.000000011019026, w: 0.9946079}
+      scale: {x: 1, y: 0.99999994, z: 0.99999994}
+    - name: Leg_LP022
+      parentName: Leg_LP023
+      position: {x: -0.00000064849854, y: -0.0000024414062, z: -1.0848068}
+      rotation: {x: 0.13672839, y: -0.000000012861788, z: -0.0000000999962, w: 0.9906086}
+      scale: {x: 1, y: 1.0000001, z: 1.0000001}
+    - name: Leg_LP021
+      parentName: Leg_LP022
+      position: {x: -0.000000667572, y: 0, z: -1.0848083}
+      rotation: {x: 0.046996374, y: 0.000000031378107, z: 0.000000012975181, w: 0.9988951}
+      scale: {x: 1, y: 0.99999994, z: 1.0000001}
+    - name: Foot_LP002
+      parentName: Leg_LP021
+      position: {x: 0.000000095367426, y: 0, z: -1.2792578}
+      rotation: {x: -0.14373344, y: -0.07953611, z: -0.033845033, w: 0.9858343}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1.0000001}
+    - name: Figner_Pt1_LP016
+      parentName: Foot_LP002
+      position: {x: 0.00000015258789, y: -0.834884, z: -0.77229613}
+      rotation: {x: -0.12006342, y: 0, z: -0, w: 0.99276626}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Figner_Pt1_LP017
+      parentName: Figner_Pt1_LP016
+      position: {x: -0.00000015258789, y: -0.6127026, z: 0.029460449}
+      rotation: {x: 0.054152664, y: -0, z: -0, w: 0.9985327}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Figner_Pt2_LP008
+      parentName: Figner_Pt1_LP017
+      position: {x: 0.00000015258789, y: -0.4384082, z: -0.046938475}
+      rotation: {x: 0.05324266, y: -0, z: -0, w: 0.9985816}
+      scale: {x: 1, y: 0.99999994, z: 0.99999994}
+    - name: Figner_Pt1_LP018
+      parentName: Foot_LP002
+      position: {x: -0.60823804, y: -0.35381347, z: -0.77856445}
+      rotation: {x: -0.13843238, y: 0.07992398, z: -0.49357086, w: 0.85488975}
+      scale: {x: 1, y: 0.99999994, z: 0.99999994}
+    - name: Figner_Pt1_LP019
+      parentName: Figner_Pt1_LP018
+      position: {x: -0.0000012207031, y: -0.612702, z: 0.02946106}
+      rotation: {x: -0.002851145, y: 0, z: -0, w: 0.99999595}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Figner_Pt2_LP009
+      parentName: Figner_Pt1_LP019
+      position: {x: -0.0000012207031, y: -0.4384088, z: -0.04693878}
+      rotation: {x: -0.002851145, y: 0, z: -0, w: 0.99999595}
+      scale: {x: 1, y: 0.99999994, z: 0.99999994}
+    - name: Figner_Pt1_LP020
+      parentName: Foot_LP002
+      position: {x: 0.6475697, y: -0.38829955, z: -0.77856445}
+      rotation: {x: -0.080652095, y: -0.04656453, z: 0.49782714, w: 0.86226165}
+      scale: {x: 1, y: 0.99999994, z: 0.99999994}
+    - name: Figner_Pt1_LP021
+      parentName: Figner_Pt1_LP020
+      position: {x: 0.0000012207031, y: -0.6127026, z: 0.029461363}
+      rotation: {x: 0.05941711, y: -0, z: -0, w: 0.99823326}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Figner_Pt2_LP010
+      parentName: Figner_Pt1_LP021
+      position: {x: 0.0000012207031, y: -0.4384082, z: -0.04693878}
+      rotation: {x: 0.05941711, y: -0, z: -0, w: 0.99823326}
+      scale: {x: 1, y: 0.99999994, z: 0.99999994}
+    - name: Figner_Pt1_LP022
+      parentName: Foot_LP002
+      position: {x: 0.00000015258789, y: 0.37730223, z: -0.77229613}
+      rotation: {x: -7.031123e-18, y: -0.11482695, z: 0.99338555, w: 6.082733e-17}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Figner_Pt1_LP023
+      parentName: Figner_Pt1_LP022
+      position: {x: 0.00000015258789, y: -0.61270386, z: 0.029461669}
+      rotation: {x: -0.0059976913, y: 0, z: -0, w: 0.999982}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Figner_Pt2_LP011
+      parentName: Figner_Pt1_LP023
+      position: {x: -0, y: -0.43840942, z: -0.046939086}
+      rotation: {x: 0.059417088, y: -0, z: -0, w: 0.99823326}
+      scale: {x: 1, y: 0.99999994, z: 0.99999994}
+    - name: Dummy004
+      parentName: Leg_LP021
+      position: {x: -0.0000005149841, y: 0, z: -1.2792578}
+      rotation: {x: 0.026369441, y: -0.00000016348467, z: -0.00000009462836, w: 0.99965227}
+      scale: {x: 3.3333335, y: 3.3333328, z: 3.3333333}
+    - name: Leg_LP080
+      parentName: ' 1'
+      position: {x: -0.66376007, y: 1.233297, z: 2.0217917}
+      rotation: {x: 0.12224825, y: -0.55390686, z: 0.8012801, w: -0.1902441}
+      scale: {x: 0.47185802, y: 0.47185805, z: 0.47185805}
+    - name: Leg_LP079
+      parentName: Leg_LP080
+      position: {x: 0.00000040531157, y: 0.00000030517577, z: -0.890975}
+      rotation: {x: -0.04338122, y: -0.000000029749707, z: 0.000000008335235, w: 0.9990586}
+      scale: {x: 0.9198997, y: 0.91989976, z: 0.91989976}
+    - name: Leg_LP078
+      parentName: Leg_LP079
+      position: {x: -0.00000037670134, y: 0.00000061035155, z: -1.0009469}
+      rotation: {x: -0.13010286, y: -0.00000002842964, z: -0.0000000021852087, w: 0.9915005}
+      scale: {x: 0.9117849, y: 0.9117849, z: 0.911785}
+    - name: Leg_LP077
+      parentName: Leg_LP078
+      position: {x: -0.00000008106232, y: 0.00000030517577, z: -0.99070555}
+      rotation: {x: -0.13009772, y: 0.000000019723213, z: 0.0000000015577555, w: 0.9915012}
+      scale: {x: 0.9117848, y: 0.9117848, z: 0.9117849}
+    - name: Leg_LP076
+      parentName: Leg_LP077
+      position: {x: 0.00000012397766, y: 0.0000007629394, z: -1.0346735}
+      rotation: {x: -0.13025096, y: 0.000000014324115, z: -0.0000000012088522, w: 0.99148107}
+      scale: {x: 0.9117849, y: 0.9117848, z: 0.9117849}
+    - name: Leg_LP075
+      parentName: Leg_LP076
+      position: {x: 0.00000017166137, y: -0.00000061035155, z: -1.1143426}
+      rotation: {x: -0.08718038, y: -0.000000008922471, z: -0.0000000064201635, w: 0.9961926}
+      scale: {x: 0.91178477, y: 0.9117847, z: 0.9117847}
+    - name: Leg_LP074
+      parentName: Leg_LP075
+      position: {x: -0.00000063896175, y: -0.0000012207031, z: -1.0848072}
+      rotation: {x: -0.04399657, y: 0.000000013771924, z: 0.0000000048015183, w: 0.99903166}
+      scale: {x: 1, y: 1.0000001, z: 1}
+    - name: Leg_LP073
+      parentName: Leg_LP074
+      position: {x: -0.0000005340576, y: -0.0000009155273, z: -1.0848058}
+      rotation: {x: -0.057729438, y: 0.00000001050988, z: 0.00000022962939, w: 0.99833226}
+      scale: {x: 0.99999994, y: 1, z: 0.99999994}
+    - name: Leg_LP072
+      parentName: Leg_LP073
+      position: {x: -0.00000014305114, y: -0.0000024414062, z: -1.0848058}
+      rotation: {x: 0.18120682, y: -0.0000000037717607, z: 0.000000007797476, w: 0.98344505}
+      scale: {x: 1, y: 1.0000001, z: 1}
+    - name: Leg_LP071
+      parentName: Leg_LP072
+      position: {x: -0.0000019073486, y: -0.0000012207031, z: -1.0848072}
+      rotation: {x: 0.14471224, y: 0.000000006541616, z: -0.000000013192718, w: 0.9894738}
+      scale: {x: 0.9999998, y: 0.99999994, z: 0.99999976}
+    - name: Leg_LP070
+      parentName: Leg_LP071
+      position: {x: 0.00000019073485, y: -0.0000009155273, z: -1.0848058}
+      rotation: {x: 0.10594385, y: 0.000000012969024, z: -0.0000000079379205, w: 0.9943721}
+      scale: {x: 0.9999999, y: 1.0000001, z: 0.9999999}
+    - name: Leg_LP069
+      parentName: Leg_LP070
+      position: {x: -0.00000085830686, y: 0, z: -1.0848047}
+      rotation: {x: 0.06524114, y: -0.000000019974687, z: -0.000000011760398, w: 0.99786955}
+      scale: {x: 1.0000001, y: 1, z: 1}
+    - name: Leg_LP068
+      parentName: Leg_LP069
+      position: {x: -0.000001373291, y: -0.00000061035155, z: -1.0848083}
+      rotation: {x: 0.1103219, y: -0.000000025287033, z: -0.000000005158015, w: 0.99389595}
+      scale: {x: 0.99999994, y: 0.99999994, z: 1}
+    - name: Leg_LP067
+      parentName: Leg_LP068
+      position: {x: -0.0000011062622, y: 0.0000024414062, z: -1.0848083}
+      rotation: {x: 0.10993331, y: -0.000000027610417, z: -0.000000008190208, w: 0.993939}
+      scale: {x: 1, y: 0.99999994, z: 1}
+    - name: Leg_LP066
+      parentName: Leg_LP067
+      position: {x: 0.0000016498566, y: 0, z: -1.0848035}
+      rotation: {x: 0.10756623, y: -0.000000024362278, z: -0.0000000043898316, w: 0.9941979}
+      scale: {x: 0.99999994, y: 0.99999994, z: 0.99999994}
+    - name: Leg_LP065
+      parentName: Leg_LP066
+      position: {x: -0.0000021457672, y: 0, z: -1.0848083}
+      rotation: {x: 0.016291786, y: -0.000000022401883, z: -0.000000002895047, w: 0.9998673}
+      scale: {x: 0.99999994, y: 1, z: 1}
+    - name: Leg_LP064
+      parentName: Leg_LP065
+      position: {x: 0.00000012397766, y: 0, z: -1.0848053}
+      rotation: {x: 0.09893478, y: -0.000000010611595, z: 0.000000001522989, w: 0.99509394}
+      scale: {x: 0.99999994, y: 1, z: 1}
+    - name: Leg_LP063
+      parentName: Leg_LP064
+      position: {x: -0.0000002479553, y: 0, z: -1.0848047}
+      rotation: {x: 0.09300873, y: 0.0000000080246325, z: 0.00000000579803, w: 0.9956653}
+      scale: {x: 1, y: 0.99999994, z: 0.99999994}
+    - name: Leg_LP062
+      parentName: Leg_LP063
+      position: {x: -0.0000015354157, y: 0, z: -1.0848058}
+      rotation: {x: 0.12926076, y: -0.0000000153506, z: -0.000000096145584, w: 0.99161065}
+      scale: {x: 1, y: 1.0000001, z: 0.99999994}
+    - name: Leg_LP061
+      parentName: Leg_LP062
+      position: {x: -0.0000012779235, y: 0.0000024414062, z: -1.0848074}
+      rotation: {x: 0.042914964, y: 0.000000032695002, z: 0.000000066703095, w: 0.99907875}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1.0000001}
+    - name: Foot_LP004
+      parentName: Leg_LP061
+      position: {x: 0.0000006008148, y: 0, z: -1.2792575}
+      rotation: {x: -0.057829335, y: 0.032502476, z: 0.03365738, w: 0.99722946}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1.0000001}
+    - name: Figner_Pt1_LP032
+      parentName: Foot_LP004
+      position: {x: -0, y: -0.83488524, z: -0.7722964}
+      rotation: {x: -0.06267742, y: 0, z: -0, w: 0.9980338}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Figner_Pt1_LP033
+      parentName: Figner_Pt1_LP032
+      position: {x: 0.00000030517577, y: -0.6127026, z: 0.02946106}
+      rotation: {x: 0.17723344, y: -0, z: -0, w: 0.9841688}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Figner_Pt2_LP016
+      parentName: Figner_Pt1_LP033
+      position: {x: -0.00000061035155, y: -0.4384082, z: -0.04693878}
+      rotation: {x: 0.17723344, y: -0, z: -0, w: 0.9841688}
+      scale: {x: 1, y: 0.99999994, z: 0.99999994}
+    - name: Figner_Pt1_LP034
+      parentName: Foot_LP004
+      position: {x: -0.6082385, y: -0.35381347, z: -0.77856475}
+      rotation: {x: -0.09192981, y: 0.053075705, z: -0.497175, w: 0.8611323}
+      scale: {x: 1, y: 0.99999994, z: 0.99999994}
+    - name: Figner_Pt1_LP035
+      parentName: Figner_Pt1_LP034
+      position: {x: -0, y: -0.61270386, z: 0.02946106}
+      rotation: {x: 0.17544109, y: -0, z: -0, w: 0.9844899}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Figner_Pt2_LP017
+      parentName: Figner_Pt1_LP035
+      position: {x: -0, y: -0.43840942, z: -0.04693878}
+      rotation: {x: 0.23945417, y: -0, z: -0, w: 0.9709077}
+      scale: {x: 1, y: 0.99999994, z: 0.99999994}
+    - name: Figner_Pt1_LP036
+      parentName: Foot_LP004
+      position: {x: 0.6475694, y: -0.38829833, z: -0.77856475}
+      rotation: {x: -0.10834706, y: -0.062554225, z: 0.49607167, w: 0.85922104}
+      scale: {x: 1, y: 0.99999994, z: 0.99999994}
+    - name: Figner_Pt1_LP037
+      parentName: Figner_Pt1_LP036
+      position: {x: 0.0000012207031, y: -0.6127032, z: 0.02946106}
+      rotation: {x: 0.13594007, y: -0, z: -0, w: 0.99071705}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Figner_Pt2_LP018
+      parentName: Figner_Pt1_LP037
+      position: {x: -0, y: -0.43840942, z: -0.046938475}
+      rotation: {x: 0.13594007, y: -0, z: -0, w: 0.99071705}
+      scale: {x: 1, y: 0.99999994, z: 0.99999994}
+    - name: Figner_Pt1_LP038
+      parentName: Foot_LP004
+      position: {x: -0.00000030517577, y: 0.37730223, z: -0.7722964}
+      rotation: {x: -5.0590176e-18, y: -0.082620025, z: 0.99658114, w: 6.102299e-17}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Figner_Pt1_LP039
+      parentName: Figner_Pt1_LP038
+      position: {x: -0.00000015258789, y: -0.6127026, z: 0.029461287}
+      rotation: {x: -0.036341827, y: 0, z: -0, w: 0.99933946}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Figner_Pt2_LP019
+      parentName: Figner_Pt1_LP039
+      position: {x: 0.0000007629394, y: -0.43841064, z: -0.04693878}
+      rotation: {x: 0.1115815, y: -0, z: -0, w: 0.9937553}
+      scale: {x: 1, y: 0.99999994, z: 0.99999994}
+    - name: Dummy005
+      parentName: Leg_LP061
+      position: {x: -0.0000006198883, y: -0.0000024414062, z: -1.2792575}
+      rotation: {x: 0.026368083, y: -0.00000006096277, z: -0.000000022445924, w: 0.9996523}
+      scale: {x: 3.3333325, y: 3.3333325, z: 3.3333337}
+    - name: Leg_LP120
+      parentName: ' 1'
+      position: {x: 0.75847214, y: 1.2322241, z: 2.0217917}
+      rotation: {x: -0.16681984, y: -0.5978386, z: 0.75606996, w: 0.20764968}
+      scale: {x: 0.47185808, y: 0.47185814, z: 0.4718581}
+    - name: Leg_LP119
+      parentName: Leg_LP120
+      position: {x: 0.0000004959106, y: 0.0000009155273, z: -0.8909753}
+      rotation: {x: -0.043794762, y: 0.000000010806979, z: -0.0000000030731215, w: 0.9990406}
+      scale: {x: 0.9198996, y: 0.9198997, z: 0.9198996}
+    - name: Leg_LP118
+      parentName: Leg_LP119
+      position: {x: -0.0000005674362, y: 0.0000009155273, z: -1.0009469}
+      rotation: {x: -0.13042141, y: -0.0000000138530964, z: -0.0000000031100897, w: 0.99145865}
+      scale: {x: 0.9117848, y: 0.9117848, z: 0.91178477}
+    - name: Leg_LP117
+      parentName: Leg_LP118
+      position: {x: -0.000000052452087, y: 0.00000061035155, z: -0.99070615}
+      rotation: {x: -0.12896267, y: -0.000000022181933, z: -0.0000000010821788, w: 0.99164945}
+      scale: {x: 0.9117848, y: 0.91178477, z: 0.9117848}
+    - name: Leg_LP116
+      parentName: Leg_LP117
+      position: {x: 0.0000000333786, y: 0.00000061035155, z: -1.034674}
+      rotation: {x: -0.12652625, y: -0.000000019929654, z: -0.000000009749979, w: 0.99196327}
+      scale: {x: 0.9117848, y: 0.91178495, z: 0.91178495}
+    - name: Leg_LP115
+      parentName: Leg_LP116
+      position: {x: 0.00000018119812, y: 0.00000030517577, z: -1.1143433}
+      rotation: {x: -0.079873025, y: 0.000000008454511, z: 0.000000011180647, w: 0.9968051}
+      scale: {x: 0.9117848, y: 0.9117847, z: 0.9117848}
+    - name: Leg_LP114
+      parentName: Leg_LP115
+      position: {x: -0.0000011825562, y: -0.00000061035155, z: -1.0848047}
+      rotation: {x: -0.033017043, y: -2.1452642e-10, z: -0.000000004083846, w: 0.9994548}
+      scale: {x: 0.99999994, y: 1, z: 1}
+    - name: Leg_LP113
+      parentName: Leg_LP114
+      position: {x: -0.0000018501281, y: -0.00000061035155, z: -1.0848047}
+      rotation: {x: -0.04291157, y: -0.00000012967189, z: -0.000000041108965, w: 0.99907887}
+      scale: {x: 0.99999994, y: 0.99999994, z: 0.99999994}
+    - name: Leg_LP112
+      parentName: Leg_LP113
+      position: {x: -0.0000009918213, y: 0, z: -1.0848058}
+      rotation: {x: 0.19976419, y: 0.00000001669952, z: -0.000000009582712, w: 0.97984403}
+      scale: {x: 0.99999994, y: 1.0000001, z: 1}
+    - name: Leg_LP111
+      parentName: Leg_LP112
+      position: {x: -0.0000005626678, y: 0, z: -1.0848083}
+      rotation: {x: 0.16643319, y: 0.000000010903062, z: -0.000000021438584, w: 0.98605275}
+      scale: {x: 0.99999994, y: 0.99999994, z: 0.9999999}
+    - name: Leg_LP110
+      parentName: Leg_LP111
+      position: {x: -0.00000027656554, y: -0.0000012207031, z: -1.0848072}
+      rotation: {x: 0.12969638, y: 0.000000025789209, z: -0.000000020279861, w: 0.9915538}
+      scale: {x: 1, y: 1, z: 1.0000001}
+    - name: Leg_LP109
+      parentName: Leg_LP110
+      position: {x: -0.0000010490418, y: 0, z: -1.0848035}
+      rotation: {x: 0.08999998, y: -0.00000002034748, z: -0.000000019902748, w: 0.9959418}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Leg_LP108
+      parentName: Leg_LP109
+      position: {x: -0.0000010490418, y: -0.0000012207031, z: -1.0848072}
+      rotation: {x: 0.1351737, y: -0.000000016034793, z: -0.000000023661055, w: 0.99082196}
+      scale: {x: 0.99999994, y: 0.99999994, z: 1}
+    - name: Leg_LP107
+      parentName: Leg_LP108
+      position: {x: 0.0000012493133, y: -0.0000012207031, z: -1.0848047}
+      rotation: {x: 0.13389505, y: -0.000000021195966, z: -0.000000014287253, w: 0.9909955}
+      scale: {x: 0.99999994, y: 0.9999999, z: 0.99999994}
+    - name: Leg_LP106
+      parentName: Leg_LP107
+      position: {x: -0.0000009155273, y: -0.0000024414062, z: -1.0848058}
+      rotation: {x: 0.12962465, y: -0.00000001377683, z: -0.00000003353815, w: 0.99156314}
+      scale: {x: 1, y: 1, z: 0.9999999}
+    - name: Leg_LP105
+      parentName: Leg_LP106
+      position: {x: -0.0000009346008, y: 0, z: -1.0848095}
+      rotation: {x: 0.035708718, y: -0.000000012893243, z: -0.000000008741985, w: 0.99936223}
+      scale: {x: 0.99999994, y: 1, z: 0.99999994}
+    - name: Leg_LP104
+      parentName: Leg_LP105
+      position: {x: -0.0000018119812, y: 0.0000012207031, z: -1.0848058}
+      rotation: {x: 0.11532074, y: -0.000000010172242, z: -0.000000028059759, w: 0.99332833}
+      scale: {x: 1, y: 0.99999994, z: 0.9999999}
+    - name: Leg_LP103
+      parentName: Leg_LP104
+      position: {x: 0.00000050544736, y: -0.0000024414062, z: -1.0848056}
+      rotation: {x: 0.10590801, y: -0.0000000013230487, z: 0.000000011760484, w: 0.99437594}
+      scale: {x: 0.99999994, y: 0.9999999, z: 0.99999994}
+    - name: Leg_LP102
+      parentName: Leg_LP103
+      position: {x: -0.00000028610228, y: -0.0000012207031, z: -1.0848058}
+      rotation: {x: 0.13825078, y: -0.000000018916193, z: -0.00000011024954, w: 0.9903973}
+      scale: {x: 0.9999999, y: 0.99999994, z: 1}
+    - name: Leg_LP101
+      parentName: Leg_LP102
+      position: {x: -0.00000089645386, y: -0.0000024414062, z: -1.0848078}
+      rotation: {x: 0.047825627, y: 0.00000003064048, z: -0.000000022154472, w: 0.9988557}
+      scale: {x: 1, y: 0.99999994, z: 0.99999994}
+    - name: Foot_LP006
+      parentName: Leg_LP101
+      position: {x: 0.000001039505, y: 0, z: -1.2792572}
+      rotation: {x: -0.12020173, y: 0.03138819, z: 0.0024703701, w: 0.9922501}
+      scale: {x: 1, y: 1.0000001, z: 1.0000001}
+    - name: Figner_Pt1_LP048
+      parentName: Foot_LP006
+      position: {x: -0.0000005340576, y: -0.83488154, z: -0.77229625}
+      rotation: {x: -0.099889114, y: 0, z: -0, w: 0.9949986}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Figner_Pt1_LP049
+      parentName: Figner_Pt1_LP048
+      position: {x: 0.000000114440915, y: -0.61270505, z: 0.029461363}
+      rotation: {x: -0.051734257, y: 0, z: -0, w: 0.9986609}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Figner_Pt2_LP024
+      parentName: Figner_Pt1_LP049
+      position: {x: 0.0000009155273, y: -0.43841186, z: -0.046939086}
+      rotation: {x: 0.013692068, y: -0, z: -0, w: 0.9999063}
+      scale: {x: 1, y: 0.99999994, z: 0.99999994}
+    - name: Figner_Pt1_LP050
+      parentName: Foot_LP006
+      position: {x: -0.6082383, y: -0.3538147, z: -0.77856445}
+      rotation: {x: -0.11818666, y: 0.06823511, z: -0.4953221, w: 0.85792303}
+      scale: {x: 1, y: 0.99999994, z: 0.99999994}
+    - name: Figner_Pt1_LP051
+      parentName: Figner_Pt1_LP050
+      position: {x: -0, y: -0.61270386, z: 0.029461287}
+      rotation: {x: 0.015818208, y: -0, z: -0, w: 0.9998749}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Figner_Pt2_LP025
+      parentName: Figner_Pt1_LP051
+      position: {x: -0, y: -0.4384082, z: -0.046938628}
+      rotation: {x: 0.08117929, y: -0, z: -0, w: 0.9966995}
+      scale: {x: 1, y: 0.99999994, z: 0.99999994}
+    - name: Figner_Pt1_LP052
+      parentName: Foot_LP006
+      position: {x: 0.6475694, y: -0.38830078, z: -0.7785646}
+      rotation: {x: -0.15281475, y: -0.08822767, z: 0.49215445, w: 0.85243624}
+      scale: {x: 1, y: 0.99999994, z: 0.99999994}
+    - name: Figner_Pt1_LP053
+      parentName: Figner_Pt1_LP052
+      position: {x: -0, y: -0.6127026, z: 0.029461363}
+      rotation: {x: -0.024968944, y: 0, z: -0, w: 0.9996882}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Figner_Pt2_LP026
+      parentName: Figner_Pt1_LP053
+      position: {x: 0.0000012207031, y: -0.4384082, z: -0.046938475}
+      rotation: {x: 0.018660616, y: -0, z: -0, w: 0.9998259}
+      scale: {x: 1, y: 0.99999994, z: 0.99999994}
+    - name: Figner_Pt1_LP054
+      parentName: Foot_LP006
+      position: {x: 0.00000030517577, y: 0.377301, z: -0.77229625}
+      rotation: {x: -1.035851e-17, y: -0.1691673, z: 0.98558736, w: 6.034982e-17}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Figner_Pt1_LP055
+      parentName: Figner_Pt1_LP054
+      position: {x: 0.000000038146972, y: -0.61270016, z: 0.029461669}
+      rotation: {x: 0.0045481776, y: -0, z: -0, w: 0.9999897}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Figner_Pt2_LP027
+      parentName: Figner_Pt1_LP055
+      position: {x: 0.0000008392334, y: -0.43840942, z: -0.046939697}
+      rotation: {x: 0.091685705, y: -0, z: -0, w: 0.995788}
+      scale: {x: 1, y: 0.99999994, z: 0.99999994}
+    - name: Dummy006
+      parentName: Leg_LP101
+      position: {x: 0.00000042915343, y: 0.0000024414062, z: -1.2792566}
+      rotation: {x: 0.026366748, y: -0.00000001663631, z: 0.00000019049467, w: 0.9996523}
+      scale: {x: 3.3333333, y: 3.3333337, z: 3.3333335}
+    - name: Leg_LP020
+      parentName: ' 1'
+      position: {x: 1.4686592, y: -0.00000086358745, z: 2.0217917}
+      rotation: {x: -0.36859345, y: -0.41822025, z: 0.60912, w: 0.56409526}
+      scale: {x: 0.47185805, y: 0.4718581, z: 0.47185805}
+    - name: Leg_LP019
+      parentName: Leg_LP020
+      position: {x: 0.000000629425, y: 0, z: -0.89097565}
+      rotation: {x: -0.047147, y: 0.0000000066211285, z: -7.0103084e-10, w: 0.99888796}
+      scale: {x: 0.91989964, y: 0.9198996, z: 0.91989964}
+    - name: Leg_LP018
+      parentName: Leg_LP019
+      position: {x: -0.00000061035155, y: 0.0000012207031, z: -1.0009469}
+      rotation: {x: -0.13666682, y: 0.0000000019103226, z: -7.675523e-10, w: 0.9906171}
+      scale: {x: 0.9117847, y: 0.91178465, z: 0.9117847}
+    - name: Leg_LP017
+      parentName: Leg_LP018
+      position: {x: -0, y: 0.00000061035155, z: -0.99070495}
+      rotation: {x: -0.1364362, y: 0.000000009178936, z: 0.000000004357369, w: 0.99064887}
+      scale: {x: 0.91178495, y: 0.9117849, z: 0.9117848}
+    - name: Leg_LP016
+      parentName: Leg_LP017
+      position: {x: -0.000000019073486, y: 0.00000045776366, z: -1.0346717}
+      rotation: {x: -0.13371323, y: 0.000000009323179, z: 0.000000005380662, w: 0.9910201}
+      scale: {x: 0.9117849, y: 0.9117849, z: 0.9117849}
+    - name: Leg_LP015
+      parentName: Leg_LP016
+      position: {x: 0.000000076293944, y: -0.0000009155273, z: -1.114342}
+      rotation: {x: -0.085460365, y: 0.0000000103216875, z: 0.000000011137121, w: 0.9963416}
+      scale: {x: 0.91178477, y: 0.91178477, z: 0.9117848}
+    - name: Leg_LP014
+      parentName: Leg_LP015
+      position: {x: -0.0000004959106, y: -0.00000061035155, z: -1.0848058}
+      rotation: {x: -0.036459494, y: 0.0000000068444534, z: 0.0000000039774806, w: 0.99933517}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Leg_LP013
+      parentName: Leg_LP014
+      position: {x: -0.00000045776366, y: -0.0000012207031, z: -1.0848072}
+      rotation: {x: -0.16908288, y: -0.0000002425684, z: 0.00000020217809, w: 0.98560184}
+      scale: {x: 0.9999998, y: 0.99999994, z: 0.9999999}
+    - name: Leg_LP012
+      parentName: Leg_LP013
+      position: {x: -0.0000004959106, y: -0.00000061035155, z: -1.0848058}
+      rotation: {x: 0.19904761, y: 0.0000000053692304, z: -0.0000000063174195, w: 0.9799898}
+      scale: {x: 0.99999994, y: 1, z: 0.99999994}
+    - name: Leg_LP011
+      parentName: Leg_LP012
+      position: {x: -0.0000005340576, y: -0.00000061035155, z: -1.0848072}
+      rotation: {x: 0.16830157, y: 0.000000007579317, z: -0.000000019245263, w: 0.98573554}
+      scale: {x: 0.99999994, y: 0.99999994, z: 0.99999994}
+    - name: Leg_LP010
+      parentName: Leg_LP011
+      position: {x: -0.0000007629394, y: 0, z: -1.0848072}
+      rotation: {x: 0.13358891, y: 0.000000001504516, z: -0.000000023696447, w: 0.99103683}
+      scale: {x: 0.99999994, y: 0.9999999, z: 1.0000001}
+    - name: Leg_LP009
+      parentName: Leg_LP010
+      position: {x: -0.00000057220456, y: 0, z: -1.0848035}
+      rotation: {x: 0.09536095, y: 0.0000000104652935, z: -0.00000002626338, w: 0.9954428}
+      scale: {x: 1, y: 0.99999994, z: 0.99999994}
+    - name: Leg_LP008
+      parentName: Leg_LP009
+      position: {x: -0.0000004196167, y: -0.00000061035155, z: -1.0848058}
+      rotation: {x: 0.14153752, y: -0.000000006819023, z: -0.000000026308056, w: 0.9899329}
+      scale: {x: 0.99999994, y: 1, z: 1}
+    - name: Leg_LP007
+      parentName: Leg_LP008
+      position: {x: -0.0000006866455, y: 0, z: -1.0848072}
+      rotation: {x: 0.14055656, y: -0.0000000010299707, z: -0.000000027132947, w: 0.99007267}
+      scale: {x: 0.99999994, y: 1, z: 1}
+    - name: Leg_LP006
+      parentName: Leg_LP007
+      position: {x: -0.0000008010864, y: 0.0000012207031, z: -1.0848053}
+      rotation: {x: 0.13583247, y: -0.0000000065185186, z: -0.000000023547202, w: 0.99073184}
+      scale: {x: 0.99999994, y: 1, z: 0.99999994}
+    - name: Leg_LP005
+      parentName: Leg_LP006
+      position: {x: -0.00000064849854, y: -0.0000012207031, z: -1.0848083}
+      rotation: {x: 0.040792026, y: -0.000000009229712, z: -0.0000000205954, w: 0.9991677}
+      scale: {x: 1.0000001, y: 1, z: 1}
+    - name: Leg_LP004
+      parentName: Leg_LP005
+      position: {x: -0.00000057220456, y: 0, z: -1.084804}
+      rotation: {x: 0.119079694, y: -0.000000005861366, z: -0.000000017587968, w: 0.99288476}
+      scale: {x: 0.99999994, y: 1, z: 1}
+    - name: Leg_LP003
+      parentName: Leg_LP004
+      position: {x: -0.00000072479247, y: 0, z: -1.084808}
+      rotation: {x: 0.107809305, y: -0.000000006907984, z: -0.000000003232215, w: 0.9941716}
+      scale: {x: 0.99999994, y: 0.99999994, z: 1.0000001}
+    - name: Leg_LP002
+      parentName: Leg_LP003
+      position: {x: -0.00000064849854, y: -0.0000024414062, z: -1.0848061}
+      rotation: {x: 0.1378368, y: -0.000000015042733, z: -0.00000008782256, w: 0.990455}
+      scale: {x: 0.9999999, y: 1.0000001, z: 1.0000001}
+    - name: Leg_LP001
+      parentName: Leg_LP002
+      position: {x: -0.0000007629394, y: 0, z: -1.0848072}
+      rotation: {x: 0.047606215, y: 0.000000030788275, z: 0.000000019977353, w: 0.9988662}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1.0000001}
+    - name: Foot_LP001
+      parentName: Leg_LP001
+      position: {x: -0.00000015258789, y: 0.0000012207031, z: -1.2792572}
+      rotation: {x: -0.13654062, y: -0.058798388, z: -0.03836434, w: 0.98814356}
+      scale: {x: 1.0000001, y: 0.99999994, z: 0.99999994}
+    - name: Figner_Pt1_LP008
+      parentName: Foot_LP001
+      position: {x: -0, y: -0.834884, z: -0.7722962}
+      rotation: {x: -0.10434065, y: 0, z: -0, w: 0.99454165}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Figner_Pt1_LP009
+      parentName: Figner_Pt1_LP008
+      position: {x: 0.00000015258789, y: -0.6127026, z: 0.029460754}
+      rotation: {x: 0.09078303, y: -0, z: -0, w: 0.9958707}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Figner_Pt2_LP004
+      parentName: Figner_Pt1_LP009
+      position: {x: -0.00000015258789, y: -0.4384082, z: -0.046938665}
+      rotation: {x: 0.17723343, y: -0, z: -0, w: 0.9841688}
+      scale: {x: 1, y: 0.99999994, z: 0.99999994}
+    - name: Figner_Pt1_LP010
+      parentName: Foot_LP001
+      position: {x: -0.6082383, y: -0.35381225, z: -0.7785645}
+      rotation: {x: -0.12706509, y: 0.07336107, z: -0.4945889, w: 0.85665303}
+      scale: {x: 1, y: 0.99999994, z: 0.99999994}
+    - name: Figner_Pt1_LP011
+      parentName: Figner_Pt1_LP010
+      position: {x: -0.0000012207031, y: -0.6127026, z: 0.029461669}
+      rotation: {x: 0.0935027, y: -0, z: -0, w: 0.99561906}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Figner_Pt2_LP005
+      parentName: Figner_Pt1_LP011
+      position: {x: -0, y: -0.43840757, z: -0.046938933}
+      rotation: {x: 0.0935027, y: -0, z: -0, w: 0.99561906}
+      scale: {x: 1, y: 0.99999994, z: 0.99999994}
+    - name: Figner_Pt1_LP012
+      parentName: Foot_LP001
+      position: {x: 0.64756954, y: -0.38829955, z: -0.7785645}
+      rotation: {x: -0.07312242, y: -0.042217262, z: 0.49821463, w: 0.8629328}
+      scale: {x: 1, y: 0.99999994, z: 0.99999994}
+    - name: Figner_Pt1_LP013
+      parentName: Figner_Pt1_LP012
+      position: {x: -0, y: -0.6127026, z: 0.029461363}
+      rotation: {x: 0.17633732, y: -0, z: -0, w: 0.9843298}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Figner_Pt2_LP006
+      parentName: Figner_Pt1_LP013
+      position: {x: -0, y: -0.4384082, z: -0.04693878}
+      rotation: {x: 0.17633732, y: -0, z: -0, w: 0.9843298}
+      scale: {x: 1, y: 0.99999994, z: 0.99999994}
+    - name: Figner_Pt1_LP014
+      parentName: Foot_LP001
+      position: {x: 0.00000015258789, y: 0.37730223, z: -0.77229613}
+      rotation: {x: -3.837885e-18, y: -0.06267742, z: 0.9980338, w: 6.1111945e-17}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Figner_Pt1_LP015
+      parentName: Figner_Pt1_LP014
+      position: {x: -0, y: -0.61270386, z: 0.029461363}
+      rotation: {x: 0.068128325, y: -0, z: -0, w: 0.99767655}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Figner_Pt2_LP007
+      parentName: Figner_Pt1_LP015
+      position: {x: -0, y: -0.43840942, z: -0.046938762}
+      rotation: {x: 0.08896953, y: -0, z: -0, w: 0.9960344}
+      scale: {x: 1, y: 0.99999994, z: 0.99999994}
+    - name: Dummy001
+      parentName: Leg_LP001
+      position: {x: 0.0000018310546, y: 0, z: -1.2792572}
+      rotation: {x: 0.04159357, y: -0.0000001217813, z: 0.0000000033918737, w: 0.9991346}
+      scale: {x: 3.3333333, y: 3.3333335, z: 3.3333335}
+    - name: Body_Top
+      parentName: Body_Base
+      position: {x: -0, y: -4.3655745e-13, z: 0.00020843506}
+      rotation: {x: 0.0000000011181199, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Gear_LP
+      parentName: Body_Base
+      position: {x: 0.0000000763312, y: -0.000000042598693, z: 2.0129046}
+      rotation: {x: 0.0000000010604024, y: 3.7614406e-10, z: 0.3464703, w: 0.93806094}
+      scale: {x: 1, y: 1.0000001, z: 1.0000001}
+    - name: Head_LP
+      parentName: Body_Base
+      position: {x: -0, y: -0.0000000047628417, z: 2.10429}
+      rotation: {x: 0.00000000111812, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Light
+      parentName: Head_LP
+      position: {x: -0.031181907, y: -0.80288005, z: 0.6014996}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 0.99959546, y: 1, z: 0.99959546}
+    - name: Light001
+      parentName: Head_LP
+      position: {x: -0.031181907, y: -0.9223762, z: 0.6014996}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 0.7138589, y: 1, z: 0.7138589}
+    - name: Gear_LP001
+      parentName: Body_Base
+      position: {x: -0.17182338, y: -0.31912374, z: 0.15101409}
+      rotation: {x: -3.0459027e-10, y: 0.0000000010653048, z: 0.9571804, w: -0.28949225}
+      scale: {x: 0.43181625, y: 0.43181622, z: 0.43181625}
+    - name: Gear_LP002
+      parentName: Body_Base
+      position: {x: 0.30572787, y: -0.19106068, z: 0.25967345}
+      rotation: {x: 7.5740186e-10, y: 8.4265184e-10, z: 0.75476277, w: 0.6559978}
+      scale: {x: 0.5780399, y: 0.57803994, z: 0.57804}
+    - name: Gear_LP003
+      parentName: Body_Base
+      position: {x: 0.00000007625669, y: -0.0000000426732, z: 0.40972123}
+      rotation: {x: 9.875573e-10, y: -5.2939436e-10, z: -0.47532022, w: 0.8798129}
+      scale: {x: 1, y: 1.0000001, z: 1.0000001}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 1
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
